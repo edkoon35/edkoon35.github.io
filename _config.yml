@@ -21,15 +21,15 @@ permalink: pretty
 # Pagination
 paginate: 3
 #paginate_path: "/page:num/"
-#archive:
-  #paginate: 10
-  #paginate_path: "/page:num/"
+archive:
+  paginate: 10
+  paginate_path: "/page:num/"
 #category:
   #paginate: 10
   #paginate_path: "/page:num/"
-#tag:
-  #paginate: 10
-  #paginate_path: "/page:num/"
+tag:
+  paginate: 10
+  paginate_path: "/page:num/"
 
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md"]
@@ -86,7 +86,7 @@ keywords: "Jekyll, java, springframework, developer, photo, family, edkoon, elas
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart

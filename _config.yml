@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: LifeLog
 subtitle:
-description:
-author: John Doe
+description: Always Be ^o^
+author: Euigine Kim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
+paginate: 3
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, java, springframework, developer, photo, family, edkoon, elasticsearch"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -379,8 +379,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: edkoon35
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -426,7 +426,7 @@ changyan:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-92275080-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/

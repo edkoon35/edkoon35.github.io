@@ -5,7 +5,6 @@ comments: false
 date: 2017-08-02 11:16:08
 ---
 ![daughters](profile.jpg)
-## About Me.
 ---
 자바 서버 개발자.   
 (Since 2008..)
@@ -25,7 +24,7 @@ date: 2017-08-02 11:16:08
   > 개인별 음악 소비성향에 따른 음원추천   
   > 유사음악 추천
  - OAuth2.0 인증 시스템 개발
-  > 연동 시스템 : KT 기가지니 / 네이버 클로바 / LG 플랫폼 / 쌍용 커넥티드카   
+  > 연동 시스템 : KT 기가지니 / 네이버 클로바 / LG 플랫폼 / OO 커넥티드카   
   > [OAuth2.0 인증 서비스](https://auth.genie.co.kr/oauth/authorize)   
   > [공통 로그인 서비스](https://accounts.genie.co.kr)   
   > [API 서비스](https://apis.genie.co.kr)   

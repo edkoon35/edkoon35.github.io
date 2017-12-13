@@ -10,7 +10,20 @@ date: 2017-08-02 11:16:08
 (Since 2008..)
 
 김의진 / edkoon35@gmail.com   
-2014 ~ : 지니뮤직 재직중
+
+Skills
+- JAVA backend
+- Spring Framework
+- OAuth2.0
+- Elasticsearch / Logstash / Kibana
+- Hadoop / Hive / Spark / kafka / Zeppelin
+- python (pyspark)
+- redis / maria / sqlserver / oracle
+- git / jenkins / maven nexus
+- slack / glip / wiki / jira
+- frontend....   
+
+2014.04 ~ : 지니뮤직 재직중
  - 하위 모든 시스템 아키텍처 설계 / 개발   
  - git 시스템 구축
  - jenkins 시스템 구축
@@ -45,16 +58,7 @@ date: 2017-08-02 11:16:08
   > API 인증   
    : 단순 조회성 API (Basic Auth)   
    : 회원 데이터 기반 API (OAuth2.0)
-
-
-Skills
-- JAVA backend
-- Spring Framework
-- OAuth2.0
-- Elasticsearch / Logstash / Kibana
-- Hadoop / Hive / Spark / kafka / Zeppelin
-- python (pyspark)
-- redis / maria / sqlserver / oracle
-- git / jenkins / maven nexus
-- slack / glip / wiki / jira
-- frontend....
+   
+2013.08 ~ 2014.03   
+2012.12 ~ 2013.07   
+2008 ~ 2012.11   

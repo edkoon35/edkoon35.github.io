@@ -29,8 +29,10 @@ date: 2017-08-02 11:16:08
     : Elasticsearch로 수집된 데이터를 Elasticsearch Search나 Aggregation을 통하여 분석   
     : 분석된 데이터를 API와 WEB으로 제공하는 CMS 사이트 개발   
  - 음악 추천 서비스 개발 (Elastic / Spark based)
-  > 개인별 음악 소비성향에 따른 음원추천(TF-IDF)   
-  > 유사음악 추천 (Collaborative Filtering)
+  > 개인별 음악 소비성향에 따른 음원추천(Collaborative Filtering)   
+  > 유사곡 추천(TF-IDF)
+ - 검색엔진 플랫폼 전환
+  > solr cloud 기반 -> Elasticsearch로의 전환
  - OAuth2.0 인증 시스템 개발
   > 연동 시스템 : KT 기가지니 / 네이버 클로바 / LG 플랫폼 / 커넥티드카   
   > [OAuth2.0 인증 서비스](https://auth.genie.co.kr/oauth/authorize)   

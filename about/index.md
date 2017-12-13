@@ -9,7 +9,7 @@ date: 2017-08-02 11:16:08
 자바 서버 개발자.   
 (Since 2008..)
 
-김의진 / euigine.kim@kt.com   
+김의진 / edkoon35@gmail.com   
 2014 ~ : 지니뮤직 재직중
  - git 시스템 구축
  - jenkins 시스템 구축

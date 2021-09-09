@@ -1,3 +1,4 @@
 User-agent: *
+Allow:/
 Disallow:
 Sitemap: https://edkoon35.github.io/sitemap.xml

@@ -4,12 +4,17 @@
     <title>DailyLog</title>
     <link>https://edkoon35.github.io/</link>
     <description>Recent content on DailyLog</description>
-    <image>
-      <url>https://edkoon35.github.io/papermod-cover.png</url>
-      <link>https://edkoon35.github.io/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://edkoon35.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://edkoon35.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://edkoon35.github.io/posts/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edkoon35.github.io/posts/markdown/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
     <item>
       <title>Rich Content</title>
       <link>https://edkoon35.github.io/posts/rich-content/</link>
@@ -26,6 +31,20 @@
       
       <guid>https://edkoon35.github.io/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
+    </item>
+    
+    <item>
+      <title>About Me.</title>
+      <link>https://edkoon35.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edkoon35.github.io/about/</guid>
+      <description>딸 둘 아빠인 자바 서버 개발자 입니다.
+(Since 2008 ~ )
+김의진 / edkoon35@gmail.com
+Skills
+ Java, Spring Framework, Python ElasticStack (Elasticsearch / Logstash / Kibana / APM) Hadoop / Hive / Spark / kafka / Zeppelin Git / jenkins / gradle / maven nexus slack / glip / wiki / jira  2014.04 ~ : 지니뮤직 재직중
+ 서비스&amp;amp;시스템 아키텍처 설계 / 개발 git 시스템 구축 jenkins 시스템 구축 nexus 시스템 구축 샵엔지니 WEB / API / CMS 서비스 개발 지니 서비스 플랫폼 전환 개발 (ASP -&amp;gt; JAVA) KT 올레미디어팩 서비스 개발 빅데이터 분석 시스템 구축 (HDP)   HDP 팩키지 기반의 시스템 구성</description>
     </item>
     
     
